@@ -1,2 +1,3 @@
 hii I work at LTI
-i will work for 2 years
+I will work for 2 years
+Then take a jmp to another one
